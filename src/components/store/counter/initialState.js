@@ -1,0 +1,1 @@
+export const initialCounter = { total: 0, step: 1 }
